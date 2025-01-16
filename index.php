@@ -1,6 +1,6 @@
-<?php require_once $_SERVER['DOCUMENT_ROOT'] . "/Cardapio2/consulta_site/lanches_sql.php"?>
-<?php require_once $_SERVER['DOCUMENT_ROOT'] . "/Cardapio2/consulta_site/bebidas_sql.php"?>
-testesteste
+<?php require_once $_SERVER['DOCUMENT_ROOT'] . "/MenuOrigin/consulta_site/lanches_sql.php"?>
+<?php require_once $_SERVER['DOCUMENT_ROOT'] . "/MenuOrigin/consulta_site/bebidas_sql.php"?>
+
 <!DOCTYPE html>
 <html lang="pt-BR">
 	<head>
